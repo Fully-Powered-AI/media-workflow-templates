@@ -1,0 +1,55 @@
+{
+  "repository": "Fully-Powered-AI/media-capability-templates",
+  "title": "Media and Entertainment",
+  "term": "industries/media-and-entertainment",
+  "capabilities": [
+    {
+      "id": "daily-production-report",
+      "name": "Daily production report",
+      "version": "0.1.0",
+      "summary": "When a shoot day wraps, the production coordinator gets a draft daily report from the call sheet, timecards and department reports: hours totaled as written, schedule changes noted, and every missing or overlapping entry listed as a query. The production manager checks it.",
+      "path": "daily-production-report/",
+      "directory": "https://fullypowered.ai/capabilities/daily-production-report/"
+    },
+    {
+      "id": "newsletter-roundup-draft",
+      "name": "Newsletter roundup draft",
+      "version": "0.1.0",
+      "summary": "The newsletter editor hands over the stories picked for this send and gets a draft digest grouped by beat, with a short summary, source line and link for each approved story. Duplicates, corrected stories and incomplete sources are flagged for the editor, who approves any send.",
+      "path": "newsletter-roundup-draft/",
+      "directory": "https://fullypowered.ai/capabilities/newsletter-roundup-draft/"
+    },
+    {
+      "id": "reader-correction-request-brief",
+      "name": "Reader correction request brief",
+      "version": "0.1.0",
+      "summary": "When a reader disputes a fact or reports a missing credit, the editor gets one internal note: the request, the published passage, the evidence supplied and the questions only an editor can answer. A draft acknowledgement waits for the audience lead's approval.",
+      "path": "reader-correction-request-brief/",
+      "directory": "https://fullypowered.ai/capabilities/reader-correction-request-brief/"
+    },
+    {
+      "id": "shoot-location-logistics-pack",
+      "name": "Shoot location logistics pack",
+      "version": "0.1.0",
+      "summary": "When a location joins the shooting schedule, the location manager gets one brief for it: how people and vehicles get in, where they park, what the place offers, who to call and what each department asked for, with every unconfirmed item listed against the production checklist.",
+      "path": "shoot-location-logistics-pack/",
+      "directory": "https://fullypowered.ai/capabilities/shoot-location-logistics-pack/"
+    },
+    {
+      "id": "sponsor-delivery-record",
+      "name": "Sponsor delivery record",
+      "version": "0.1.0",
+      "summary": "When a sponsored run ends, the partnerships lead gets a register of each placement in the signed scope beside the publication record, metrics and invoices. Gaps, changed dates and incomparable metrics stay visible; billing questions go to finance.",
+      "path": "sponsor-delivery-record/",
+      "directory": "https://fullypowered.ai/capabilities/sponsor-delivery-record/"
+    },
+    {
+      "id": "story-brief-from-reporting-file",
+      "name": "Story brief from the reporting file",
+      "version": "0.1.0",
+      "summary": "Before a story is commissioned, the editor gets one brief from the reporting file: what the file confirms, what earlier coverage exists, what is still unanswered and a proposed structure, with every conflicting or unverified claim listed as a reporting gap.",
+      "path": "story-brief-from-reporting-file/",
+      "directory": "https://fullypowered.ai/capabilities/story-brief-from-reporting-file/"
+    }
+  ]
+}

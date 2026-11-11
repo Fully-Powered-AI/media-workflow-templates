@@ -1,0 +1,45 @@
+{
+  "id": "daily-production-report",
+  "name": "Daily production report",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When a shoot day wraps, the production coordinator gets a draft daily report from the call sheet, timecards and department reports: hours totaled as written, schedule changes noted, and every missing or overlapping entry listed as a query. The production manager checks it.",
+  "directory": "https://fullypowered.ai/capabilities/daily-production-report/",
+  "primary_function": "functions/project-and-delivery",
+  "functions": [
+    "functions/project-and-delivery"
+  ],
+  "industries": [
+    "industries/media-and-entertainment",
+    "industries/marketing-and-advertising",
+    "industries/consumer-brands"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "payroll-preparation-and-timesheet-review",
+    "project-status-report"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own method for assembling a wrapped shoot day's report: the fixed inputs, the checks of timecards against the call sheet, the order of the queries, and the rule that hours are totaled as written and no pay rule is applied."
+    }
+  ]
+}

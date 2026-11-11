@@ -1,0 +1,46 @@
+{
+  "id": "shoot-location-logistics-pack",
+  "name": "Shoot location logistics pack",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When a location joins the shooting schedule, the location manager gets one brief for it: how people and vehicles get in, where they park, what the place offers, who to call and what each department asked for, with every unconfirmed item listed against the production checklist.",
+  "directory": "https://fullypowered.ai/capabilities/shoot-location-logistics-pack/",
+  "primary_function": "functions/project-and-delivery",
+  "functions": [
+    "functions/project-and-delivery",
+    "functions/operations-and-process-improvement"
+  ],
+  "industries": [
+    "industries/media-and-entertainment",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "event-plan",
+    "business-trip-plan",
+    "site-safety-induction-pack"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of production coordination work in media and entertainment."
+    }
+  ]
+}

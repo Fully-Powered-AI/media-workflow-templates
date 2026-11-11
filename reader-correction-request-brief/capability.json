@@ -1,0 +1,47 @@
+{
+  "id": "reader-correction-request-brief",
+  "name": "Reader correction request brief",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When a reader disputes a fact or reports a missing credit, the editor gets one internal note: the request, the published passage, the evidence supplied and the questions only an editor can answer. A draft acknowledgement waits for the audience lead's approval.",
+  "directory": "https://fullypowered.ai/capabilities/reader-correction-request-brief/",
+  "primary_function": "functions/customer-support-and-service",
+  "functions": [
+    "functions/customer-support-and-service",
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/media-and-entertainment",
+    "industries/marketing-and-advertising",
+    "industries/nonprofits"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "customer-reply-drafting",
+    "complaint-and-refund-request-handling",
+    "public-guest-review-reply",
+    "support-escalation-brief"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of audience correction work for media and entertainment organizations."
+    }
+  ]
+}

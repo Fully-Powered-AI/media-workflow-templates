@@ -1,0 +1,44 @@
+{
+  "id": "story-brief-from-reporting-file",
+  "name": "Story brief from the reporting file",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before a story is commissioned, the editor gets one brief from the reporting file: what the file confirms, what earlier coverage exists, what is still unanswered and a proposed structure, with every conflicting or unverified claim listed as a reporting gap.",
+  "directory": "https://fullypowered.ai/capabilities/story-brief-from-reporting-file/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/media-and-entertainment"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/startups-and-new-ventures"
+  ],
+  "related": [
+    "research-summary-brief",
+    "customer-interview-synthesis",
+    "content-plan"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of media and entertainment work."
+    }
+  ]
+}

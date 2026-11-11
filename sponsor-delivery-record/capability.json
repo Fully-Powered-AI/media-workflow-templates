@@ -1,0 +1,47 @@
+{
+  "id": "sponsor-delivery-record",
+  "name": "Sponsor delivery record",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When a sponsored run ends, the partnerships lead gets a register of each placement in the signed scope beside the publication record, metrics and invoices. Gaps, changed dates and incomparable metrics stay visible; billing questions go to finance.",
+  "directory": "https://fullypowered.ai/capabilities/sponsor-delivery-record/",
+  "primary_function": "functions/sales",
+  "functions": [
+    "functions/sales",
+    "functions/marketing-and-content",
+    "functions/finance-and-accounting"
+  ],
+  "industries": [
+    "industries/media-and-entertainment",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "client-billing-summary",
+    "creator-publication-tracking",
+    "wholesale-order-check"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of the work of assembling a sponsor's delivery evidence."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "newsletter-roundup-draft",
+  "name": "Newsletter roundup draft",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "The newsletter editor hands over the stories picked for this send and gets a draft digest grouped by beat, with a short summary, source line and link for each approved story. Duplicates, corrected stories and incomplete sources are flagged for the editor, who approves any send.",
+  "directory": "https://fullypowered.ai/capabilities/newsletter-roundup-draft/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/media-and-entertainment",
+    "industries/marketing-and-advertising",
+    "industries/nonprofits"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "email-sequence-drafting",
+    "staff-newsletter-and-faq-roundup",
+    "recorded-sessions-into-articles"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of the newsletter editor's work, written without any third-party text."
+    }
+  ]
+}
