@@ -2,7 +2,7 @@
 
 When a reader disputes a fact or reports a missing credit, the editor gets one internal note: the request, the published passage, the evidence supplied and the questions only an editor can answer. A draft acknowledgement waits for the audience lead's approval.
 
-*Workflow template · Media and entertainment · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/reader-correction-request-brief/)*
+*Workflow template · Media and entertainment · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/reader-correction-request-brief/)*
 
 ## The outcome
 
