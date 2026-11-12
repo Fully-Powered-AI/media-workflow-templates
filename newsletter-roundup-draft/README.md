@@ -2,7 +2,7 @@
 
 The newsletter editor hands over the stories picked for this send and gets a draft digest grouped by beat, with a short summary, source line and link for each approved story. Duplicates, corrected stories and incomplete sources are flagged for the editor, who approves any send.
 
-*Workflow template · Media and entertainment · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/newsletter-roundup-draft/)*
+*Workflow template · Media and entertainment · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/newsletter-roundup-draft/)*
 
 ## The outcome
 
@@ -77,9 +77,9 @@ Testing in your environment means running it on two or three past roundups you a
 
 ## Related workflow templates
 
-- [Email sequence drafting](https://fullypowered.ai/workflow templates/email-sequence-drafting/)
-- [Staff newsletter and FAQ roundup](https://fullypowered.ai/workflow templates/staff-newsletter-and-faq-roundup/)
-- [Recorded sessions into articles](https://fullypowered.ai/workflow templates/recorded-sessions-into-articles/)
+- [Email sequence drafting](https://fullypowered.ai/workflows/email-sequence-drafting/)
+- [Staff newsletter and FAQ roundup](https://fullypowered.ai/workflows/staff-newsletter-and-faq-roundup/)
+- [Recorded sessions into articles](https://fullypowered.ai/workflows/recorded-sessions-into-articles/)
 
 ## Make it yours
 

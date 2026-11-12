@@ -2,7 +2,7 @@
 
 When a reader disputes a fact or reports a missing credit, the editor gets one internal note: the request, the published passage, the evidence supplied and the questions only an editor can answer. A draft acknowledgement waits for the audience lead's approval.
 
-*Workflow template · Media and entertainment · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/reader-correction-request-brief/)*
+*Workflow template · Media and entertainment · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/reader-correction-request-brief/)*
 
 ## The outcome
 
@@ -75,10 +75,10 @@ Testing in your environment means running it on past reader requests your editor
 
 ## Related workflow templates
 
-- [Customer reply drafting](https://fullypowered.ai/workflow templates/customer-reply-drafting/)
-- [Complaint and refund request handling](https://fullypowered.ai/workflow templates/complaint-and-refund-request-handling/)
-- [Public guest review reply](https://fullypowered.ai/workflow templates/public-guest-review-reply/)
-- [Support escalation brief](https://fullypowered.ai/workflow templates/support-escalation-brief/)
+- [Customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/)
+- [Complaint and refund request handling](https://fullypowered.ai/workflows/complaint-and-refund-request-handling/)
+- [Public guest review reply](https://fullypowered.ai/workflows/public-guest-review-reply/)
+- [Support escalation brief](https://fullypowered.ai/workflows/support-escalation-brief/)
 
 ## Make it yours
 

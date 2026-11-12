@@ -2,7 +2,7 @@
 
 Before a story is commissioned, the editor gets one brief from the reporting file: what the file confirms, what earlier coverage exists, what is still unanswered and a proposed structure, with every conflicting or unverified claim listed as a reporting gap.
 
-*Workflow template · Media and entertainment · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/story-brief-from-reporting-file/)*
+*Workflow template · Media and entertainment · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/story-brief-from-reporting-file/)*
 
 ## The outcome
 
@@ -72,9 +72,9 @@ Testing in your environment means running it on past pitches your editors alread
 
 ## Related workflow templates
 
-- [Research summary brief](https://fullypowered.ai/workflow templates/research-summary-brief/)
-- [Customer interview synthesis](https://fullypowered.ai/workflow templates/customer-interview-synthesis/)
-- [Content plan](https://fullypowered.ai/workflow templates/content-plan/)
+- [Research summary brief](https://fullypowered.ai/workflows/research-summary-brief/)
+- [Customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/)
+- [Content plan](https://fullypowered.ai/workflows/content-plan/)
 
 ## Make it yours
 

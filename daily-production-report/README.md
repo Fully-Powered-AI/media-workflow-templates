@@ -2,7 +2,7 @@
 
 When a shoot day wraps, the production coordinator gets a draft daily report from the call sheet, timecards and department reports: hours totaled as written, schedule changes noted, and every missing or overlapping entry listed as a query. The production manager checks it.
 
-*Workflow template · Media and entertainment · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/daily-production-report/)*
+*Workflow template · Media and entertainment · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/daily-production-report/)*
 
 ## The outcome
 
@@ -82,8 +82,8 @@ Testing in your environment means running it on a past shoot day the production 
 
 ## Related workflow templates
 
-- [Payroll preparation and timesheet review](https://fullypowered.ai/workflow templates/payroll-preparation-and-timesheet-review/)
-- [Project status report](https://fullypowered.ai/workflow templates/project-status-report/)
+- [Payroll preparation and timesheet review](https://fullypowered.ai/workflows/payroll-preparation-and-timesheet-review/)
+- [Project status report](https://fullypowered.ai/workflows/project-status-report/)
 
 ## Make it yours
 

@@ -2,7 +2,7 @@
 
 When a sponsored run ends, the partnerships lead gets a register of each placement in the signed scope beside the publication record, metrics and invoices. Gaps, changed dates and incomparable metrics stay visible; billing questions go to finance.
 
-*Workflow template · Media and entertainment · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/sponsor-delivery-record/)*
+*Workflow template · Media and entertainment · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sponsor-delivery-record/)*
 
 ## The outcome
 
@@ -77,9 +77,9 @@ Testing in your environment means running it on a sponsored run your team rememb
 
 ## Related workflow templates
 
-- [Client billing summary](https://fullypowered.ai/workflow templates/client-billing-summary/)
-- [Creator publication tracking](https://fullypowered.ai/workflow templates/creator-publication-tracking/)
-- [Wholesale order check](https://fullypowered.ai/workflow templates/wholesale-order-check/)
+- [Client billing summary](https://fullypowered.ai/workflows/client-billing-summary/)
+- [Creator publication tracking](https://fullypowered.ai/workflows/creator-publication-tracking/)
+- [Wholesale order check](https://fullypowered.ai/workflows/wholesale-order-check/)
 
 ## Make it yours
 

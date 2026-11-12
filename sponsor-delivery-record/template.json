@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When a sponsored run ends, the partnerships lead gets a register of each placement in the signed scope beside the publication record, metrics and invoices. Gaps, changed dates and incomparable metrics stay visible; billing questions go to finance.",
-  "directory": "https://fullypowered.ai/workflow templates/sponsor-delivery-record/",
+  "directory": "https://fullypowered.ai/workflows/sponsor-delivery-record/",
   "primary_function": "functions/sales",
   "functions": [
     "functions/sales",

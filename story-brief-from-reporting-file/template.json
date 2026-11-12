@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before a story is commissioned, the editor gets one brief from the reporting file: what the file confirms, what earlier coverage exists, what is still unanswered and a proposed structure, with every conflicting or unverified claim listed as a reporting gap.",
-  "directory": "https://fullypowered.ai/workflow templates/story-brief-from-reporting-file/",
+  "directory": "https://fullypowered.ai/workflows/story-brief-from-reporting-file/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content"

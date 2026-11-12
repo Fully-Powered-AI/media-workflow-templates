@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When a location joins the shooting schedule, the location manager gets one brief for it: how people and vehicles get in, where they park, what the place offers, who to call and what each department asked for, with every unconfirmed item listed against the production checklist.",
-  "directory": "https://fullypowered.ai/workflow templates/shoot-location-logistics-pack/",
+  "directory": "https://fullypowered.ai/workflows/shoot-location-logistics-pack/",
   "primary_function": "functions/project-and-delivery",
   "functions": [
     "functions/project-and-delivery",

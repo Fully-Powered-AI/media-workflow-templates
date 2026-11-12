@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When a shoot day wraps, the production coordinator gets a draft daily report from the call sheet, timecards and department reports: hours totaled as written, schedule changes noted, and every missing or overlapping entry listed as a query. The production manager checks it.",
-  "directory": "https://fullypowered.ai/workflow templates/daily-production-report/",
+  "directory": "https://fullypowered.ai/workflows/daily-production-report/",
   "primary_function": "functions/project-and-delivery",
   "functions": [
     "functions/project-and-delivery"

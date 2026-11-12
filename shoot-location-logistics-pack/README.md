@@ -2,7 +2,7 @@
 
 When a location joins the shooting schedule, the location manager gets one brief for it: how people and vehicles get in, where they park, what the place offers, who to call and what each department asked for, with every unconfirmed item listed against the production checklist.
 
-*Workflow template · Media and entertainment · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/shoot-location-logistics-pack/)*
+*Workflow template · Media and entertainment · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/shoot-location-logistics-pack/)*
 
 ## The outcome
 
@@ -75,9 +75,9 @@ Testing in your environment means running it on a past location your team rememb
 
 ## Related workflow templates
 
-- [Event plan](https://fullypowered.ai/workflow templates/event-plan/)
-- [Business trip plan](https://fullypowered.ai/workflow templates/business-trip-plan/)
-- [Site safety induction pack](https://fullypowered.ai/workflow templates/site-safety-induction-pack/)
+- [Event plan](https://fullypowered.ai/workflows/event-plan/)
+- [Business trip plan](https://fullypowered.ai/workflows/business-trip-plan/)
+- [Site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/)
 
 ## Make it yours
 
