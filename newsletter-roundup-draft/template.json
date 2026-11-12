@@ -1,10 +1,10 @@
 {
   "id": "newsletter-roundup-draft",
   "name": "Newsletter roundup draft",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "The newsletter editor hands over the stories picked for this send and gets a draft digest grouped by beat, with a short summary, source line and link for each approved story. Duplicates, corrected stories and incomplete sources are flagged for the editor, who approves any send.",
-  "directory": "https://fullypowered.ai/capabilities/newsletter-roundup-draft/",
+  "directory": "https://fullypowered.ai/workflow templates/newsletter-roundup-draft/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content"

@@ -1,6 +1,6 @@
 # Shoot location logistics pack
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -14,7 +14,7 @@ Do not use it:
 
 - to read a location agreement for its terms or to say what it permits. The brief shows only the status the production office gives;
 - to judge whether a hazard, a permit, a safety plan or an insurance cover is adequate. Those go to the qualified reviewers;
-- to plan a whole event, a trip or a safety induction. Those have their own capabilities, event plan, business trip plan and site safety induction pack;
+- to plan a whole event, a trip or a safety induction. Those have their own workflow templates, event plan, business trip plan and site safety induction pack;
 - to book a space, apply for a permit, notify a neighbour or contact a supplier. People do that.
 
 ## Roles

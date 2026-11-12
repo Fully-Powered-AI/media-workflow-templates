@@ -1,6 +1,6 @@
 # Story brief from the reporting file: an invented example
 
-*Illustrative example with invented data.* The publication, the town, the council, the people, the documents and every figure are invented, and none describes a real place or event. The publication is a local weekly, the Tallowby Courier. Its section editor has a pitch on a new recycling depot and must decide by Friday 13 November 2026 whether to commission a 1,200-word feature. The news desk coordinator runs the capability on Tuesday 10 November 2026.
+*Illustrative example with invented data.* The publication, the town, the council, the people, the documents and every figure are invented, and none describes a real place or event. The publication is a local weekly, the Tallowby Courier. Its section editor has a pitch on a new recycling depot and must decide by Friday 13 November 2026 whether to commission a 1,200-word feature. The news desk coordinator runs the workflow template on Tuesday 10 November 2026.
 
 First come the request and the inputs, exactly as the coordinator pasted them. Then the brief that came back.
 

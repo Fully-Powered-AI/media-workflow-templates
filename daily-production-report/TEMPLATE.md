@@ -1,6 +1,6 @@
 # Daily production report
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -14,7 +14,7 @@ Do not use it:
 
 - for pay. It applies no pay rule, overtime, meal-penalty or guild computation and submits nothing to payroll. Hours are the hours as written. A pay period belongs in Payroll preparation and timesheet review, prepared for the payroll specialist;
 - to report a project across weeks. That is Project status report;
-- to re-plan the shoot schedule after a change. This capability notes the change as written; it does not re-plan around it;
+- to re-plan the shoot schedule after a change. This workflow template notes the change as written; it does not re-plan around it;
 - for more than one shoot day in one run. Run it once per day.
 
 ## Roles
@@ -22,7 +22,7 @@ Do not use it:
 - **Runs it:** the production coordinator.
 - **Checks the report and decides what goes out:** the production manager.
 - **Answers a query:** the person or department head named beside it.
-- **Applies pay rules and approves any payroll or guild submission:** the payroll specialist, outside this capability.
+- **Applies pay rules and approves any payroll or guild submission:** the payroll specialist, outside this workflow template.
 - **Receives the approved report:** the production office, department heads and cost reporting, as the production manager decides.
 
 ## Inputs

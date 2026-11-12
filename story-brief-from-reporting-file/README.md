@@ -2,7 +2,7 @@
 
 Before a story is commissioned, the editor gets one brief from the reporting file: what the file confirms, what earlier coverage exists, what is still unanswered and a proposed structure, with every conflicting or unverified claim listed as a reporting gap.
 
-*Capability template · Media and entertainment · Marketing and content · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/story-brief-from-reporting-file/)*
+*Workflow template · Media and entertainment · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/story-brief-from-reporting-file/)*
 
 ## The outcome
 
@@ -35,7 +35,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more pitches arrive than one editor can read in full.
 - [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), for a small outlet where one person is reporter, editor and fact-checker in turn.
 
-It is a separate piece of work from [Research summary brief](https://fullypowered.ai/capabilities/research-summary-brief/), which reads published documents to answer a question, and from [Customer interview synthesis](https://fullypowered.ai/capabilities/customer-interview-synthesis/), which draws themes from customer interviews. [Content plan](https://fullypowered.ai/capabilities/content-plan/) ranks what a marketing team writes next from buyers' questions; this one tests whether one editorial pitch has the evidence behind it.
+It is a separate piece of work from [Research summary brief](https://fullypowered.ai/workflows/research-summary-brief/), which reads published documents to answer a question, and from [Customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/), which draws themes from customer interviews. [Content plan](https://fullypowered.ai/workflows/content-plan/) ranks what a marketing team writes next from buyers' questions; this one tests whether one editorial pitch has the evidence behind it.
 
 ## What has to change for your company
 
@@ -43,7 +43,7 @@ Set the rule your publication applies before something is stated as fact, and th
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the published record is of a second run, made by the assistant that had revised the template after an independent review, so it is not an independent run. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the published record is of a second run, made by the assistant that had revised the template after an independent review, so it is not an independent run. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on past pitches your editors already know, with cases written in advance: two sources that disagree, a document that never arrived, a claim from one anonymous person. The editor checks every line of the brief against the file before anyone relies on it.
 
@@ -56,11 +56,11 @@ Testing in your environment means running it on past pitches your editors alread
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -70,12 +70,12 @@ Testing in your environment means running it on past pitches your editors alread
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Research summary brief](https://fullypowered.ai/capabilities/research-summary-brief/)
-- [Customer interview synthesis](https://fullypowered.ai/capabilities/customer-interview-synthesis/)
-- [Content plan](https://fullypowered.ai/capabilities/content-plan/)
+- [Research summary brief](https://fullypowered.ai/workflow templates/research-summary-brief/)
+- [Customer interview synthesis](https://fullypowered.ai/workflow templates/customer-interview-synthesis/)
+- [Content plan](https://fullypowered.ai/workflow templates/content-plan/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

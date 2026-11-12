@@ -1,6 +1,6 @@
 # Newsletter roundup draft
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -13,7 +13,7 @@ Use it when the stories for a daily, weekly or special digest have been selected
 Do not use it for:
 
 - writing a new story, or adding background, quotes or context that the stories do not contain;
-- deciding which stories are worth including. The editor selects them; this capability only drafts from the selection;
+- deciding which stories are worth including. The editor selects them; this workflow template only drafts from the selection;
 - a series of emails that follow a reader over time. Email sequence drafting prepares those;
 - an internal newsletter for staff built from team updates. Staff newsletter and FAQ roundup prepares that;
 - turning recordings or transcripts into articles. Recorded sessions into articles prepares those;
