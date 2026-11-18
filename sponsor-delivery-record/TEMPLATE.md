@@ -239,4 +239,4 @@ the partnerships lead, finance and the person who sends.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Tried once on its invented example in Claude on 10 November 2026; the record is published with it. Revised the same day in response to the trial, and again after an independent review; the revisions have not been run again. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its invented example in Claude on 10 November 2026; the record is published with it. Revised the same day in response to the trial, and again after an independent review; the revisions have not been run again. Not yet tested in a client environment.

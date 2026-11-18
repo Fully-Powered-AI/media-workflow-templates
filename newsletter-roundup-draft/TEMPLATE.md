@@ -242,4 +242,4 @@ decides.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. After an independent review, small clarifications were added to the instruction block and the format (tie rule, cut candidates, personal details, unknown stories, empty fields, the lead story's duplicate marker, how questions are ordered); the second run was not repeated for them. Written by Fully Powered AI. Tried on its invented example on 10 November 2026 in two runs: the instructions were revised after the first, and the second is the run recorded. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. After an independent review, small clarifications were added to the instruction block and the format (tie rule, cut candidates, personal details, unknown stories, empty fields, the lead story's duplicate marker, how questions are ordered); the second run was not repeated for them. Written by FullyPowered AI. Tried on its invented example on 10 November 2026 in two runs: the instructions were revised after the first, and the second is the run recorded. Not yet tested in a client environment.
