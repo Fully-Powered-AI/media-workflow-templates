@@ -281,4 +281,4 @@ the file. Never ask for a password or a login code.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried on its invented example in Claude on 10 November 2026 (the published record is the second run, made by the assistant that revised the template after an independent review, so it is not an independent run); the record is published with it. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried on its example in Claude on 10 November 2026 (the published record is the second run, made by the assistant that revised the template after an independent review, so it is not an independent run); the record is published with it. Not yet tested in a client environment.

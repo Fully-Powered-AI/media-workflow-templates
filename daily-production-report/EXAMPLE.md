@@ -1,6 +1,6 @@
-# Daily production report: an invented example
+# Daily production report: an example
 
-*Illustrative example with invented data.* The production, the crew, the times and the notes below are all invented. The production is an invented ten-day shoot of a short film, run by a small production office; people are named by their position and a letter. First come the inputs the production coordinator supplied, in full, then the report the workflow template returned.
+*Illustrative example with sample data.* The production, the crew, the times and the notes below are all illustrative. The production is an illustrative ten-day shoot of a short film, run by a small production office; people are named by their position and a letter. First come the inputs the production coordinator supplied, in full, then the report the workflow template returned.
 
 ## The inputs
 

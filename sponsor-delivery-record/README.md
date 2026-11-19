@@ -8,7 +8,7 @@ Get a register of each sponsored placement beside the publication record, metric
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Media and entertainment · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sponsor-delivery-record/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-sponsor-delivery-record&from=gh-media-sponsor-delivery-record)*
@@ -37,7 +37,7 @@ The partnerships lead, or the coordinator working for them, starts it when a spo
 
 One register in a fixed order. Each placement has a status (evidence matches, evidence short, or no record found), the records counted, the records left out of the count and why, the metric position, the invoice position and the lead's own note. Below it come records that match no placement, metrics that cannot be compared, billing questions, make-goods already on file, and the decisions for the partnerships lead and for finance. Nothing is sent, posted, paid or changed.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -57,7 +57,7 @@ Decide how your records name a placement, so the log can point to it, and keep o
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template in its own words. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it; the template was revised afterwards in response to that run, and again after an independent review, and the revised version has not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026, and the record is published with it; the template was revised afterwards in response to that run, and again after an independent review, and the revised version has not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a sponsored run your team remembers well, with hard cases written in advance: a placement with no record, a record dated after the window, a replacement asset, a metric measured over a different period, an invoice that is larger than the fees it covers. The partnerships lead checks every count against the logs before the register goes anywhere. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-sponsor-delivery-record&from=gh-media-sponsor-delivery-record) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-sponsor-delivery-record&from=gh-media-sponsor-delivery-record) describes the record we keep.
 
@@ -65,13 +65,13 @@ Testing in your environment means running it on a sponsored run your team rememb
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -1,10 +1,10 @@
-# Shoot location logistics pack: a trial on the invented example
+# Shoot location logistics pack: a trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5), for this pass only; see below
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [public/example.md](example.md) (the production "Nine Bells", the Old Tannery Yard and the invented people and measurements). No client data was used.
+The inputs are the example in [public/example.md](example.md) (the production "Nine Bells", the Old Tannery Yard and the sample people and measurements). No client data was used.
 
 This is the third recorded pass. A first run on the same day, by an assistant that did not write the template, found that the example output departed from the output format and the template's own rules, and listed the places where the instructions left a choice open. Its output was replaced. The template was then revised (past-date, disagreeing-sources, missing-unit-size, unreadable-call-or-wrap and rerun rules in the pasted block; alternatives open unless every one falls short; one escalation line per hazard, owned by the first requester; a needed-by date only from a request that asks for that very thing; a log row confirms only what it names; an unsent notice to neighbours counts once; a generator the notes are silent on reads "not noted"; questions that offer no option) and a second record was written by the session that revised it. An independent review then passed the template with minor points.
 

@@ -134,7 +134,7 @@ The editor checks, before the send:
 
 ## Acceptance tests
 
-Proposed tests. None has been run on its own. The invented example exercises tests 2, 3, 4, 6, 7, 8 and 9, and the ordinary stories of test 1; tests 5, 10, 11 and 12 have not been run.
+Proposed tests. None has been run on its own. The example exercises tests 2, 3, 4, 6, 7, 8 and 9, and the ordinary stories of test 1; tests 5, 10, 11 and 12 have not been run.
 
 1. **Ordinary roundup.** Six approved, complete stories in the window across three beats. Expected: all in the draft under their beats in the format's order, with source lines, nothing to settle.
 2. **Possible duplicates.** Two stories report the same council vote on the same day. Expected: both in the draft, each marked with the other's id, one question for the editor, neither dropped nor merged.
@@ -242,4 +242,4 @@ decides.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. After an independent review, small clarifications were added to the instruction block and the format (tie rule, cut candidates, personal details, unknown stories, empty fields, the lead story's duplicate marker, how questions are ordered); the second run was not repeated for them. Written by FullyPowered AI. Tried on its invented example on 10 November 2026 in two runs: the instructions were revised after the first, and the second is the run recorded. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. After an independent review, small clarifications were added to the instruction block and the format (tie rule, cut candidates, personal details, unknown stories, empty fields, the lead story's duplicate marker, how questions are ordered); the second run was not repeated for them. Written by FullyPowered AI. Tried on its example on 10 November 2026 in two runs: the instructions were revised after the first, and the second is the run recorded. Not yet tested in a client environment.

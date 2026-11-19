@@ -1,4 +1,4 @@
-# Trial of "Reader correction request brief" on its invented example
+# Trial of "Reader correction request brief" on its example
 
 - **Product:** Claude, run in Claude Code
 
@@ -10,7 +10,7 @@ This record covers two runs on the same day. The first, below, was made on the t
 
 # First run
 
-The inputs are the invented example in `public/example.md` (the reader message, published version, reporting notes, correction policy CP-3 and settings). No client data was used. The instruction block and output format in `member/template.md` were followed on those inputs before the example's published output was read.
+The inputs are the example in `public/example.md` (the reader message, published version, reporting notes, correction policy CP-3 and settings). No client data was used. The instruction block and output format in `member/template.md` were followed on those inputs before the example's published output was read.
 
 ## What came out
 
@@ -112,7 +112,7 @@ Nothing in the run required stopping, and nothing was sent, published or changed
 
 # Second run, after the template was changed
 
-Model: Sonnet 5.5 (model ID claude-sonnet-5-5), made by Anthropic. One pass, in one session, with the invented inputs in `public/example.md` and the changed instruction block and output format. The model had edited the template and had read the example's published output, so this run shows that the changes hold together, not that a stranger would reach the same note.
+Model: Sonnet 5.5 (model ID claude-sonnet-5-5), made by Anthropic. One pass, in one session, with the sample inputs in `public/example.md` and the changed instruction block and output format. The model had edited the template and had read the example's published output, so this run shows that the changes hold together, not that a stranger would reach the same note.
 
 What changed in the template between the runs: the day of receipt is not counted; a file named but not supplied is Not examined; a note not cleared is withheld, not protected, and raises no flag by itself; a reader's claim to own a published photograph is a credit report unless the reader raises copyright, payment or a takedown; the question about giving the reader a date is skipped when the policy settles it; a question is prompted where published words and evidence describe a term differently; a policy that gives permitted content but no wording is handled by drafting from the permitted statements and listing the missing wording; reviewer checklist item 9 was reworded; the closing line of the output format now reads "by the AI assistant".
 

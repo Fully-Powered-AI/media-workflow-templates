@@ -140,7 +140,7 @@ Print "none" for any empty section and keep the section.
 
 ## Acceptance tests
 
-Proposed tests. The trial on the invented example exercised the main path, the situations in tests 2 to 8. Tests 1 and 9 to 13 have not been run; in particular no stop or decline case has been run.
+Proposed tests. The trial on the example exercised the main path, the situations in tests 2 to 8. Tests 1 and 9 to 13 have not been run; in particular no stop or decline case has been run.
 
 1. **Full match.** Eight rows inside the window with the named asset for a placement of eight. Expected: counted 8 of 8, "Evidence matches".
 2. **Short.** Seven of eight. Expected: "Evidence short, 7 of 8", one lead decision.
@@ -239,4 +239,4 @@ the partnerships lead, finance and the person who sends.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its invented example in Claude on 10 November 2026; the record is published with it. Revised the same day in response to the trial, and again after an independent review; the revisions have not been run again. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its example in Claude on 10 November 2026; the record is published with it. Revised the same day in response to the trial, and again after an independent review; the revisions have not been run again. Not yet tested in a client environment.

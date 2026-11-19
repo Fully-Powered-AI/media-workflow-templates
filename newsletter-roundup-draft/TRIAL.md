@@ -1,10 +1,10 @@
-# Newsletter roundup draft: trial on the invented example
+# Newsletter roundup draft: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-This is the record of the second of two runs on 10 November 2026. The inputs were the invented Marrowfield Courier example in `public/example.md`: the settings, format and voice notes, priority notes, ten-row story index and ten story texts. No client data was used. The assistant followed the instruction block in `member/template.md` and the output format once, and nothing was sent, scheduled or changed.
+This is the record of the second of two runs on 10 November 2026. The inputs were the illustrative Marrowfield Courier example in `public/example.md`: the settings, format and voice notes, priority notes, ten-row story index and ten story texts. No client data was used. The assistant followed the instruction block in `member/template.md` and the output format once, and nothing was sent, scheduled or changed.
 
 The first run followed an earlier version of the instructions. After an independent review the instructions were revised (the figures rule, the fixed wording for an empty beat, the ordering of questions, questions for every kept-out story, and one blank line between the check and the draft) and the example's dates were corrected so that its "today" falls after every date in its own inputs. The first run's record is replaced by this one. In the first run most summaries ran to three sentences, against the rule of one or two; that was a breach of the rule by the run, not an ambiguity in it.
 
@@ -94,7 +94,7 @@ Smaller points where the instructions still leave a choice, and what this run di
 - **A lead story that is also a possible duplicate.** The format allows the duplicate marker on the lead, and this run put it there, but the procedure does not say so in words.
 - **The six-word copying limit.** Keeping under it while keeping attribution still takes care, and "a name, a title, a figure or a date" leaves some runs, such as "2 of the goals in the second half", open to judgment. The run checked its sentences against the stories by eye, not by a count.
 
-No defect stopped the run. The output follows the format and the checklist's seven points can all be applied to it. The trial was run twice on invented material, by the same model, in one product; it says nothing about use with a real publication.
+No defect stopped the run. The output follows the format and the checklist's seven points can all be applied to it. The trial was run twice on sample material, by the same model, in one product; it says nothing about use with a real publication.
 
 ## After the review
 

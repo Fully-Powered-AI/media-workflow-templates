@@ -1,6 +1,6 @@
-# Reader correction request brief: an invented example
+# Reader correction request brief: an example
 
-*Illustrative example with invented data.* Publication P is an invented regional digital magazine. The reader, the reporter, the editor, the audience lead, the article, the council, the minutes and every note below are invented. The magazine has a small audience team and an editor's assistant. First come the inputs the editor's assistant supplied, in full, then the note and draft the workflow template returned.
+*Illustrative example with sample data.* Publication P is an illustrative regional digital magazine. The reader, the reporter, the editor, the audience lead, the article, the council, the minutes and every note below are illustrative. The magazine has a small audience team and an editor's assistant. First come the inputs the editor's assistant supplied, in full, then the note and draft the workflow template returned.
 
 ## The inputs
 

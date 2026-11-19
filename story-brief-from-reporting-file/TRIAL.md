@@ -1,10 +1,10 @@
-# Story brief from the reporting file: tried on its invented example
+# Story brief from the reporting file: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in [example.md](example.md): the request, the publication profile, the reporting file, the two source documents and the prior coverage index for the invented Tallowby Courier. No client data was used.
+The inputs were the example in [example.md](example.md): the request, the publication profile, the reporting file, the two source documents and the prior coverage index for the illustrative Tallowby Courier. No client data was used.
 
 This is the third run on the example, and the record replaces the earlier ones. The first run, earlier the same day, was made by an assistant that had not written the template; an independent review then found faults and the template was revised, and a second run followed those revisions. A second independent review passed the template with minor points, and the template was revised again (see below). This run was made by the assistant that made the latest revisions, following the revised instruction block and output format against the example's inputs, with the example changed only where the review required it (two lines of the brief: G1 and P1). It had read the earlier runs and both reviews, so it is not an independent run, and its brief is the one published in the example.
 

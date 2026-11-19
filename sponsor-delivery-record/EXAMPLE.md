@@ -1,6 +1,6 @@
-# Sponsor delivery record: an invented example
+# Sponsor delivery record: an example
 
-*Illustrative example with invented data.* The publisher, the sponsor, the shows, the assets, the figures and every date below are invented. The Publisher produces a podcast, a newsletter, a radio block and a website. Sponsor A bought five placements for October 2026. The Publisher's partnerships lead runs the record and, with finance, decides. People are referred to by role.
+*Illustrative example with sample data.* The publisher, the sponsor, the shows, the assets, the figures and every date below are illustrative. The Publisher produces a podcast, a newsletter, a radio block and a website. Sponsor A bought five placements for October 2026. The Publisher's partnerships lead runs the record and, with finance, decides. People are referred to by role.
 
 The inputs come first, in full, so the template can be run on them. The record follows.
 

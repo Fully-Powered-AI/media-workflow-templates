@@ -1,6 +1,6 @@
-# Newsletter roundup draft: an invented example
+# Newsletter roundup draft: an example
 
-*Illustrative example with invented data.* The Marrowfield Courier is an invented local news publication in an invented town. Its stories, people, companies and links are invented too, and the links point nowhere real. Priya, the newsletter editor, sends a Friday digest of the week's coverage. On Thursday 12 November 2026 she gives the assistant everything below, in full, and gets back the roundup check and the draft that follow.
+*Illustrative example with sample data.* The Marrowfield Courier is an illustrative local news publication in an illustrative town. Its stories, people, companies and links are illustrative too, and the links point nowhere real. Priya, the newsletter editor, sends a Friday digest of the week's coverage. On Thursday 12 November 2026 she gives the assistant everything below, in full, and gets back the roundup check and the draft that follow.
 
 ## What Priya supplied
 

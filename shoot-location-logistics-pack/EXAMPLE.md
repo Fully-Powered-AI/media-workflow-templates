@@ -1,6 +1,6 @@
-# Shoot location logistics pack: an invented example
+# Shoot location logistics pack: an example
 
-*Illustrative example with invented data.* The production "Nine Bells" is an invented short drama, the Old Tannery Yard on Brindle Lane is an invented location, and the people, firms, measurements and dates below are invented. No real production, place, firm or person is described. Today is Tuesday 10 November 2026. First come the inputs the location manager supplied, in full, then the brief the workflow template returned.
+*Illustrative example with sample data.* The production "Nine Bells" is an illustrative short drama, the Old Tannery Yard on Brindle Lane is an illustrative location, and the people, firms, measurements and dates below are illustrative. No real production, place, firm or person is described. Today is Tuesday 10 November 2026. First come the inputs the location manager supplied, in full, then the brief the workflow template returned.
 
 ## The inputs
 

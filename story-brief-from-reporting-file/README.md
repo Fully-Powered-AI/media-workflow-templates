@@ -8,7 +8,7 @@ Before commissioning, get one brief from the reporting file: what it confirms, e
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Media and entertainment · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/story-brief-from-reporting-file/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-story-brief-from-reporting-file&from=gh-media-story-brief-from-reporting-file)*
@@ -35,7 +35,7 @@ The editor, or the desk coordinator on the editor's behalf, starts it when a pit
 
 One brief in a fixed order: the pitch's central assertions and where each stands; the sources; every claim with its standing; the reporting gaps; prior coverage; unanswered questions; claims that name people or organisations; a proposed structure showing which sections can stand today and which wait on a gap; and the questions that remain about the brief itself. Empty sections say so. Nothing is sent and no record is changed.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -52,7 +52,7 @@ Set the rule your publication applies before something is stated as fact, and th
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the published record is of a second run, made by the assistant that had revised the template after an independent review, so it is not an independent run. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 10 November 2026; the published record is of a second run, made by the assistant that had revised the template after an independent review, so it is not an independent run. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on past pitches your editors already know, with cases written in advance: two sources that disagree, a document that never arrived, a claim from one anonymous person. The editor checks every line of the brief against the file before anyone relies on it.
 
@@ -60,13 +60,13 @@ Testing in your environment means running it on past pitches your editors alread
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

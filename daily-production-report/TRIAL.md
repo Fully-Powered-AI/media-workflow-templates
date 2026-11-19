@@ -1,10 +1,10 @@
-# Daily production report: tried on its invented example
+# Daily production report: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in [`example.md`](example.md): an invented ten-day short-film shoot, with people named by position and a letter. No client data was used.
+The inputs were the example in [`example.md`](example.md): an illustrative ten-day short-film shoot, with people named by position and a letter. No client data was used.
 
 **Inputs used:** the five inputs under "The inputs" in `public/example.md` (call sheet, timecard export, department reports, production notes, settings), followed with the fenced instruction block and the output format in `member/template.md`.
 
@@ -78,7 +78,7 @@ Draft for the production manager's check. The hours are totaled as written. No p
   5. The called wrap is reported both in the day at a glance and as schedule change 2. That duplicates itself by design, but the template does not say so.
   6. When an entry is left out of a total, the output format says entries left out "are listed under Queries"; the example's wording differs. The template and its example disagree slightly here.
   7. For a person with two entries, the call-time comparison uses only the first entry; the template does not say how to treat a second entry for the same person.
-- **Smaller points:** the default tolerance is written `0:15 or [your tolerance]` in the template body, which reads as a placeholder; the Version notes still say "Not yet tried on its invented example", which this trial changes.
+- **Smaller points:** the default tolerance is written `0:15 or [your tolerance]` in the template body, which reads as a placeholder; the Version notes still say "Not yet tried on its example", which this trial changes.
 
 ## Edits made after this run
 
@@ -90,5 +90,5 @@ These were made on 10 November 2026, after the run above, in response to an inde
 - The department or position mismatch and the dispute or safety incident exceptions are named under "Other" in the instruction block, and the block now says the output format is pasted with it.
 - The instruction block now also stops when the export's date differs from the call sheet, asks the assistant to confirm one production, one date and one shoot day, and defines an incomplete entry (blank call-in, wrap-out, hours or meal, or wrap-out earlier than call-in, which is not computed). The "Production schedule rebuild" pointer was removed from the template and its related list, because that workflow template is a manufacturing build schedule, not a shoot schedule. These edits were not run again.
 - The published example now quotes the "second set" note in query 3, as this run did. The example still labels scene 15 "partly done" and scene 17 "moved to Wednesday 4 March" where this recorded run printed "done" and "not started; moved to"; the record above is left as it was run.
-- The observation that the Version notes still said "Not yet tried on its invented example" is out of date: they now say it was tried.
+- The observation that the Version notes still said "Not yet tried on its example" is out of date: they now say it was tried.
 - In the published example, the call-times line now ends "No differences.", the status words follow the output format (scene 14 "done", scene 15 "partly done", scene 17 "moved to Wednesday 4 March"), and the day-total line follows the template's wording. No fact in the example changed.
