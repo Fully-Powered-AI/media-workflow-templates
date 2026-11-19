@@ -3,7 +3,7 @@
 Get a draft newsletter digest grouped by beat, with a summary, source line and link per story. Flags duplicates and corrections; the editor approves.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Newsletter roundup draft on our website](https://fullypowered.ai/workflows/newsletter-roundup-draft/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-newsletter-roundup-draft&from=gh-media-newsletter-roundup-draft) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Newsletter roundup draft on our website](https://fullypowered.ai/workflows/newsletter-roundup-draft/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-newsletter-roundup-draft&from=gh-media-newsletter-roundup-draft). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 

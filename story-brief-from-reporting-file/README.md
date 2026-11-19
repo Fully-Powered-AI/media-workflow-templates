@@ -3,7 +3,7 @@
 Before commissioning, get one brief from the reporting file: what it confirms, earlier coverage, reporting gaps and a structure. The editor decides.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Story brief from the reporting file on our website](https://fullypowered.ai/workflows/story-brief-from-reporting-file/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-story-brief-from-reporting-file&from=gh-media-story-brief-from-reporting-file) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Story brief from the reporting file on our website](https://fullypowered.ai/workflows/story-brief-from-reporting-file/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-story-brief-from-reporting-file&from=gh-media-story-brief-from-reporting-file). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 

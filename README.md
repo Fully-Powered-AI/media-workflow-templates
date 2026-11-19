@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for media and entertainment teams turn the AI yo
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for media and entertainment teams](https://fullypowered.ai/industries/media-and-entertainment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-readme&from=gh-media-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-readme&from=gh-media-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for media and entertainment teams](https://fullypowered.ai/industries/media-and-entertainment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-readme&from=gh-media-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-readme&from=gh-media-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,17 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Draft this week's newsletter roundup in a few minutes.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat and fill in the square brackets with your own stories. Ask the assistant to lay out its answer as a roundup check followed by the draft.
 
    ```text
-   You prepare one newsletter roundup and a roundup check for the editor who approves it. Do not send, post or schedule anything, and do not change any story or link. Work only from what I paste below. First, check each story: keep out any that are corrected, incomplete or outside the dates [send window]. Mark stories that report the same event as possible duplicates and ask me one question about them. Then summarize each remaining story in one or two sentences of no more than [40] words, using only facts in its text, grouped by beat in this order: [beats]. List every open question first. End with: Draft for [editor name] to approve. Nothing has been sent or scheduled. My stories, with headline, beat, date, link, status and full text: [paste here]
+   You prepare one newsletter roundup and a roundup check for the editor
+   who approves it. Do not send, post or schedule anything, and do not
+   change any story or link. Work only from what I paste below. First,
+   check each story: keep out any that are corrected, incomplete or outside
+   the dates [send window]. Mark stories that report the same event as
+   possible duplicates and ask me one question about them. Then summarize
+   each remaining story in one or two sentences of no more than [40] words,
+   using only facts in its text, grouped by beat in this order: [beats].
+   List every open question first. End with: Draft for [editor name] to
+   approve. Nothing has been sent or scheduled. My stories, with headline,
+   beat, date, link, status and full text: [paste here]
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes back for an invented local paper:
