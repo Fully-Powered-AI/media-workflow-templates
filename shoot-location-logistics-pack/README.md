@@ -4,6 +4,8 @@ When a location joins the shooting schedule, the location manager gets one brief
 
 *Workflow template · Media and entertainment · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/shoot-location-logistics-pack/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/shoot-location-logistics-pack/?from=gh-media-shoot-location-logistics-pack)
+
 ## The outcome
 
 Everyone who needs the location reads the same brief. The location manager sees, in a fixed order, how the gate hours compare with each day's call and wrap, how many vehicles were asked for against the spaces noted, what power and facilities the place has against what the departments requested, and which contacts are named and which are still blank.

@@ -4,6 +4,8 @@ When a sponsored run ends, the partnerships lead gets a register of each placeme
 
 *Workflow template · Media and entertainment · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sponsor-delivery-record/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/sponsor-delivery-record/?from=gh-media-sponsor-delivery-record)
+
 ## The outcome
 
 A sponsor asks what it got for its money, and the answer is usually spread across a scope document, a publishing log, an analytics export and an accounts system. This workflow template puts them in one register, placement by placement, in the same order every time.

@@ -4,6 +4,8 @@ The newsletter editor hands over the stories picked for this send and gets a dra
 
 *Workflow template · Media and entertainment · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/newsletter-roundup-draft/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/newsletter-roundup-draft/?from=gh-media-newsletter-roundup-draft)
+
 ## The outcome
 
 The editor starts the roundup from a finished draft instead of a blank page. Each approved story has a summary of a line or two, written in the publication's voice, with its byline, date and link beside it, and the stories sit under their beats in the order the newsletter uses.

@@ -4,6 +4,8 @@ Before a story is commissioned, the editor gets one brief from the reporting fil
 
 *Workflow template · Media and entertainment · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/story-brief-from-reporting-file/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/story-brief-from-reporting-file/?from=gh-media-story-brief-from-reporting-file)
+
 ## The outcome
 
 The editor decides on a pitch with the whole file in view instead of the reporter's summary of it. Each claim the story would rest on appears once, with who said it, where it was recorded and how well the file supports it. The pitch's central assertions are each given a standing, so the editor sees at a glance which ones the file carries and which it does not.

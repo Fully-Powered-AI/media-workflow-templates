@@ -4,6 +4,8 @@ When a shoot day wraps, the production coordinator gets a draft daily report fro
 
 *Workflow template · Media and entertainment · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/daily-production-report/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/daily-production-report/?from=gh-media-daily-production-report)
+
 ## The outcome
 
 The report is on the production manager's desk the evening the day wraps, in the house format, instead of being pieced together from a dozen emails the next morning. It says what was planned, what the departments report got done, what changed in the schedule, and how many hours the day's records add up to, by department and in total.

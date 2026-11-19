@@ -4,6 +4,8 @@ When a reader disputes a fact or reports a missing credit, the editor gets one i
 
 *Workflow template · Media and entertainment · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/reader-correction-request-brief/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/reader-correction-request-brief/?from=gh-media-reader-correction-request-brief)
+
 ## The outcome
 
 A reader writes in to say a figure is wrong or a credit is missing. Instead of a forwarded email with a line of context, the responsible editor receives a single page. It splits the message into its separate claims, shows the exact words that were published for each one, lists what the reader supplied, and sets beside them the reporting notes the editor has cleared for review. Every gap is written as a question to the editor.
