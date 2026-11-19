@@ -1,10 +1,17 @@
 # Story brief from the reporting file
 
-Before a story is commissioned, the editor gets one brief from the reporting file: what the file confirms, what earlier coverage exists, what is still unanswered and a proposed structure, with every conflicting or unverified claim listed as a reporting gap.
+Before commissioning, get one brief from the reporting file: what it confirms, earlier coverage, reporting gaps and a structure. The editor decides.
 
-*Workflow template · Media and entertainment · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/story-brief-from-reporting-file/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Story brief from the reporting file on our website](https://fullypowered.ai/workflows/story-brief-from-reporting-file/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-story-brief-from-reporting-file&from=gh-media-story-brief-from-reporting-file) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/story-brief-from-reporting-file/?from=gh-media-story-brief-from-reporting-file)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Media and entertainment · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/story-brief-from-reporting-file/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-story-brief-from-reporting-file&from=gh-media-story-brief-from-reporting-file)*
 
 ## The outcome
 
@@ -32,12 +39,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/), for newsrooms, magazines and independent outlets that decide commissioning from a reporting file.
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), which owns editorial planning and the standards content is held to.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more pitches arrive than one editor can read in full.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), for a small outlet where one person is reporter, editor and fact-checker in turn.
+- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-story-brief-from-reporting-file&from=gh-media-story-brief-from-reporting-file), for newsrooms, magazines and independent outlets that decide commissioning from a reporting file.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-story-brief-from-reporting-file&from=gh-media-story-brief-from-reporting-file), which owns editorial planning and the standards content is held to.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-story-brief-from-reporting-file&from=gh-media-story-brief-from-reporting-file), when more pitches arrive than one editor can read in full.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-story-brief-from-reporting-file&from=gh-media-story-brief-from-reporting-file), for a small outlet where one person is reporter, editor and fact-checker in turn.
 
-It is a separate piece of work from [Research summary brief](https://fullypowered.ai/workflows/research-summary-brief/), which reads published documents to answer a question, and from [Customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/), which draws themes from customer interviews. [Content plan](https://fullypowered.ai/workflows/content-plan/) ranks what a marketing team writes next from buyers' questions; this one tests whether one editorial pitch has the evidence behind it.
+It is a separate piece of work from [Research summary brief](https://fullypowered.ai/workflows/research-summary-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-story-brief-from-reporting-file&from=gh-media-story-brief-from-reporting-file), which reads published documents to answer a question, and from [Customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-story-brief-from-reporting-file&from=gh-media-story-brief-from-reporting-file), which draws themes from customer interviews. [Content plan](https://fullypowered.ai/workflows/content-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-story-brief-from-reporting-file&from=gh-media-story-brief-from-reporting-file) ranks what a marketing team writes next from buyers' questions; this one tests whether one editorial pitch has the evidence behind it.
 
 ## What has to change for your company
 
@@ -74,10 +81,10 @@ Testing in your environment means running it on past pitches your editors alread
 
 ## Related workflow templates
 
-- [Research summary brief](https://fullypowered.ai/workflows/research-summary-brief/)
-- [Customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/)
-- [Content plan](https://fullypowered.ai/workflows/content-plan/)
+- [Research summary brief](https://fullypowered.ai/workflows/research-summary-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-story-brief-from-reporting-file&from=gh-media-story-brief-from-reporting-file)
+- [Customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-story-brief-from-reporting-file&from=gh-media-story-brief-from-reporting-file)
+- [Content plan](https://fullypowered.ai/workflows/content-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-story-brief-from-reporting-file&from=gh-media-story-brief-from-reporting-file)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-story-brief-from-reporting-file&from=gh-media-story-brief-from-reporting-file).

@@ -1,10 +1,17 @@
 # Reader correction request brief
 
-When a reader disputes a fact or reports a missing credit, the editor gets one internal note: the request, the published passage, the evidence supplied and the questions only an editor can answer. A draft acknowledgement waits for the audience lead's approval.
+When a reader disputes a fact or a credit, the editor gets one note with the evidence and questions. The audience lead approves the reply.
 
-*Workflow template · Media and entertainment · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/reader-correction-request-brief/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Reader correction request brief on our website](https://fullypowered.ai/workflows/reader-correction-request-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-reader-correction-request-brief&from=gh-media-reader-correction-request-brief) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/reader-correction-request-brief/?from=gh-media-reader-correction-request-brief)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Media and entertainment · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/reader-correction-request-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-reader-correction-request-brief&from=gh-media-reader-correction-request-brief)*
 
 ## The outcome
 
@@ -33,14 +40,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/), where an incoming message must reach the right decision-maker with its evidence attached.
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), for any team that publishes articles, reports or newsletters under its name.
-- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/), for newsrooms, magazines and production companies whose audience writes back.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), for agencies and brands that publish editorial content.
-- [Nonprofits](https://fullypowered.ai/industries/nonprofits/), where reports, newsletters and campaign pages are read closely by members and the people they describe.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), which already have a correction policy and want every request handled the same way.
+- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-reader-correction-request-brief&from=gh-media-reader-correction-request-brief), where an incoming message must reach the right decision-maker with its evidence attached.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-reader-correction-request-brief&from=gh-media-reader-correction-request-brief), for any team that publishes articles, reports or newsletters under its name.
+- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-reader-correction-request-brief&from=gh-media-reader-correction-request-brief), for newsrooms, magazines and production companies whose audience writes back.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-reader-correction-request-brief&from=gh-media-reader-correction-request-brief), for agencies and brands that publish editorial content.
+- [Nonprofits](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-reader-correction-request-brief&from=gh-media-reader-correction-request-brief), where reports, newsletters and campaign pages are read closely by members and the people they describe.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-reader-correction-request-brief&from=gh-media-reader-correction-request-brief), which already have a correction policy and want every request handled the same way.
 
-It is a different piece of work from [customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/), which answers a customer from approved answers, and from [complaint and refund request handling](https://fullypowered.ai/workflows/complaint-and-refund-request-handling/), which applies a refund policy. It prepares an editor's decision; it does not answer the reader's question.
+It is a different piece of work from [customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-reader-correction-request-brief&from=gh-media-reader-correction-request-brief), which answers a customer from approved answers, and from [complaint and refund request handling](https://fullypowered.ai/workflows/complaint-and-refund-request-handling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-reader-correction-request-brief&from=gh-media-reader-correction-request-brief), which applies a refund policy. It prepares an editor's decision; it does not answer the reader's question.
 
 ## What has to change for your company
 
@@ -50,7 +57,7 @@ Put your correction policy in writing, including who decides, how quickly a read
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, and the record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on past reader requests your editors have already settled, plus hard cases written in advance, each with its expected behavior: a claim that does not match the published words, a note marked as withheld, a message that mentions a lawyer, a credit claimed by someone you cannot identify. The responsible editor checks every quotation against the published piece before anyone relies on the note. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set.
+Testing in your environment means running it on past reader requests your editors have already settled, plus hard cases written in advance, each with its expected behavior: a claim that does not match the published words, a note marked as withheld, a message that mentions a lawyer, a credit claimed by someone you cannot identify. The responsible editor checks every quotation against the published piece before anyone relies on the note. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-reader-correction-request-brief&from=gh-media-reader-correction-request-brief) builds that test set.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -77,11 +84,11 @@ Testing in your environment means running it on past reader requests your editor
 
 ## Related workflow templates
 
-- [Customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/)
-- [Complaint and refund request handling](https://fullypowered.ai/workflows/complaint-and-refund-request-handling/)
-- [Public guest review reply](https://fullypowered.ai/workflows/public-guest-review-reply/)
-- [Support escalation brief](https://fullypowered.ai/workflows/support-escalation-brief/)
+- [Customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-reader-correction-request-brief&from=gh-media-reader-correction-request-brief)
+- [Complaint and refund request handling](https://fullypowered.ai/workflows/complaint-and-refund-request-handling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-reader-correction-request-brief&from=gh-media-reader-correction-request-brief)
+- [Public guest review reply](https://fullypowered.ai/workflows/public-guest-review-reply/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-reader-correction-request-brief&from=gh-media-reader-correction-request-brief)
+- [Support escalation brief](https://fullypowered.ai/workflows/support-escalation-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-reader-correction-request-brief&from=gh-media-reader-correction-request-brief)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-reader-correction-request-brief&from=gh-media-reader-correction-request-brief).

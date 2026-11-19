@@ -1,10 +1,17 @@
 # Daily production report
 
-When a shoot day wraps, the production coordinator gets a draft daily report from the call sheet, timecards and department reports: hours totaled as written, schedule changes noted, and every missing or overlapping entry listed as a query. The production manager checks it.
+When a shoot day wraps, get a draft report from the call sheet and timecards, hours as written and every gap as a query for the production manager.
 
-*Workflow template · Media and entertainment · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/daily-production-report/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Daily production report on our website](https://fullypowered.ai/workflows/daily-production-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-daily-production-report&from=gh-media-daily-production-report) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/daily-production-report/?from=gh-media-daily-production-report)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Media and entertainment · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/daily-production-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-daily-production-report&from=gh-media-daily-production-report)*
 
 ## The outcome
 
@@ -40,14 +47,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/), where the wrapped day's records come from many departments in different shapes.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), for agency and brand shoots run by a small production office.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where in-house content days produce the same call sheets and timecards.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), which owns the daily record of what a delivery team did.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the report lives in one coordinator's habits and should live in a repeatable format.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more shoot days a month outgrow hand assembly.
+- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-daily-production-report&from=gh-media-daily-production-report), where the wrapped day's records come from many departments in different shapes.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-daily-production-report&from=gh-media-daily-production-report), for agency and brand shoots run by a small production office.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-daily-production-report&from=gh-media-daily-production-report), where in-house content days produce the same call sheets and timecards.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-daily-production-report&from=gh-media-daily-production-report), which owns the daily record of what a delivery team did.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-daily-production-report&from=gh-media-daily-production-report), where the report lives in one coordinator's habits and should live in a repeatable format.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-daily-production-report&from=gh-media-daily-production-report), when more shoot days a month outgrow hand assembly.
 
-It is not a weekly project status report; [Project status report](https://fullypowered.ai/workflows/project-status-report/) covers a project over time. It is not payroll preparation either; [Payroll preparation and timesheet review](https://fullypowered.ai/workflows/payroll-preparation-and-timesheet-review/) prepares a pay period for the payroll specialist. This workflow template stops at one day's records and the questions they raise.
+It is not a weekly project status report; [Project status report](https://fullypowered.ai/workflows/project-status-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-daily-production-report&from=gh-media-daily-production-report) covers a project over time. It is not payroll preparation either; [Payroll preparation and timesheet review](https://fullypowered.ai/workflows/payroll-preparation-and-timesheet-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-daily-production-report&from=gh-media-daily-production-report) prepares a pay period for the payroll specialist. This workflow template stops at one day's records and the questions they raise.
 
 ## What has to change for your company
 
@@ -84,9 +91,9 @@ Testing in your environment means running it on a past shoot day the production 
 
 ## Related workflow templates
 
-- [Payroll preparation and timesheet review](https://fullypowered.ai/workflows/payroll-preparation-and-timesheet-review/)
-- [Project status report](https://fullypowered.ai/workflows/project-status-report/)
+- [Payroll preparation and timesheet review](https://fullypowered.ai/workflows/payroll-preparation-and-timesheet-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-daily-production-report&from=gh-media-daily-production-report)
+- [Project status report](https://fullypowered.ai/workflows/project-status-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-daily-production-report&from=gh-media-daily-production-report)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-daily-production-report&from=gh-media-daily-production-report).

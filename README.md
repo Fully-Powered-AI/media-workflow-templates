@@ -1,14 +1,53 @@
-# FullyPowered Workflow Templates: Media and Entertainment
+# AI workflow templates for editors, producers and coordinators
 
-The production stays on schedule and the story stays straight. These workflow templates are written for newsrooms and productions. They prepare the briefs, reports and records around the creative work. They clear no rights, interpret no agreement and apply no pay rule: the producer and editor decide.
+FullyPowered Workflow Templates for media and entertainment teams turn the AI your company already pays for into a team that knows how the work is done: a production coordinator with the daily production report drafted, an editor with the story brief built from the reporting file, a partnerships lead with the sponsor delivery record prepared. 6 workflow templates, made to be customized and deployed. All plain Markdown, all free, MIT license.
 
-**These are templates, made to be customized and deployed.** They are examples and a starting point, not a complete list: copy one, change it to fit how your team does the work, and run it in the AI you already pay for.
+We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
-**FullyPowered AI customizes and builds AI workflows that run in ChatGPT, Claude, Copilot and Gemini**, including ones that run several steps. [More examples for media and entertainment companies](https://fullypowered.ai/industries/media-and-entertainment/?from=gh-media) · [Have one built for your team](https://fullypowered.ai/pricing/?from=gh-media)
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for media and entertainment teams](https://fullypowered.ai/industries/media-and-entertainment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-readme&from=gh-media-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-readme&from=gh-media-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-This repository holds 6 workflow templates for editors, producers and production coordinators. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+**Who this is for**
 
-## The workflow templates
+- Publishers and studio heads who have paid for AI and want it doing real production work.
+- Heads of editorial, production and partnerships who want a workflow their team can run this week.
+- The editor, producer or coordinator who does the work, gets a careful draft and makes the call.
+
+**What these are for**
+
+- **Your best way of doing it, for the whole team.** One piece of work, written down precisely enough that an assistant prepares it the same way every time.
+- **Work you can check.** Every template says what it needs, what it produces, what it checked and what it could not.
+- **A person decides.** Anything that sends, posts, pays or changes a record waits for someone to approve it.
+- **Tied into your business systems.** A workflow can be designed to pull from the systems your company already runs, and even push data back into them, with guardrails and a person approving. [Browse the Connectors Directory](https://fullypowered.ai/connectors/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-readme&from=gh-media-readme).
+- **Free, open and portable.** MIT-licensed plain instructions that run in the assistant or agent your team already uses: ChatGPT, Claude, Claude Code, Claude Cowork, Codex, Copilot, Gemini, Grok, Perplexity.
+
+**Quick start**
+
+1. **Draft this week's newsletter roundup in a few minutes.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat and fill in the square brackets with your own stories. Ask the assistant to lay out its answer as a roundup check followed by the draft.
+
+   ```text
+   You prepare one newsletter roundup and a roundup check for the editor who approves it. Do not send, post or schedule anything, and do not change any story or link. Work only from what I paste below. First, check each story: keep out any that are corrected, incomplete or outside the dates [send window]. Mark stories that report the same event as possible duplicates and ask me one question about them. Then summarize each remaining story in one or two sentences of no more than [40] words, using only facts in its text, grouped by beat in this order: [beats]. List every open question first. End with: Draft for [editor name] to approve. Nothing has been sent or scheduled. My stories, with headline, beat, date, link, status and full text: [paste here]
+   ```
+
+2. Read what comes back. It marks what it checked and what is left for you. What comes back for an invented local paper:
+
+   ```text
+   ROUNDUP CHECK: The Marrowfield Courier, Friday digest
+   For: Priya (newsletter editor). Send date: Friday 13 November 2026. Sent by: Marcus (audience producer).
+   Prepared 12 November 2026 from 10 index rows, 10 story texts, the format and voice notes and the priority notes. Window: 6 November to 13 November 2026.
+   Stories in the draft: 7 of a limit of 8.
+
+   To settle before this goes out: 5
+   1. S1 and S2 (Council) both report the 9 November council vote on the Quay Road bus shelter contract. Both are in the draft, each marked as a possible duplicate. S1 names the contractor and the work period; S2 gives the lighting and arrival screens. Should the roundup carry one of them, or both?
+   ```
+
+3. Stop there. You will know if this is for you. When you want it fitted to your company, or built into your agents, [that is what we do](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-readme&from=gh-media-readme).
+
+A person starts each workflow, supplies the inputs and decides; the template prepares the draft and flags what needs a person's answer, and the editor or producer approves anything that goes out.
+
+These are examples and a starting point, made to be changed to fit how your team works. Work that is not listed here can be built too, as one step or as many.
+
+## The workflow templates here today
 
 - **[Daily production report](daily-production-report/)**: When a shoot day wraps, the production coordinator gets a draft daily report from the call sheet, timecards and department reports: hours totaled as written, schedule changes noted, and every missing or overlapping entry listed as a query. The production manager checks it.
 - **[Newsletter roundup draft](newsletter-roundup-draft/)**: The newsletter editor hands over the stories picked for this send and gets a draft digest grouped by beat, with a short summary, source line and link for each approved story. Duplicates, corrected stories and incomplete sources are flagged for the editor, who approves any send.
@@ -35,10 +74,10 @@ Each folder says exactly what was checked and when: who wrote it, that its sourc
 
 ## More workflow templates
 
-The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
+The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-readme&from=gh-media-readme) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
 
-For the work these templates come from, by area of the business and by task, see [AI workflow examples for media and entertainment companies](https://fullypowered.ai/industries/media-and-entertainment/).
+For the work these templates come from, by area of the business and by task, see [AI workflow examples for media and entertainment companies](https://fullypowered.ai/industries/media-and-entertainment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-readme&from=gh-media-readme).
 
 ## Licence and credits
 
-MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/).
+MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-readme&from=gh-media-readme).

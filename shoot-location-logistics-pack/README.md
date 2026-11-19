@@ -1,10 +1,17 @@
 # Shoot location logistics pack
 
-When a location joins the shooting schedule, the location manager gets one brief for it: how people and vehicles get in, where they park, what the place offers, who to call and what each department asked for, with every unconfirmed item listed against the production checklist.
+One location brief for the location manager: access, parking, facilities, contacts and department requests, with every unconfirmed item listed.
 
-*Workflow template · Media and entertainment · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/shoot-location-logistics-pack/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Shoot location logistics pack on our website](https://fullypowered.ai/workflows/shoot-location-logistics-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-shoot-location-logistics-pack&from=gh-media-shoot-location-logistics-pack) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/shoot-location-logistics-pack/?from=gh-media-shoot-location-logistics-pack)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Media and entertainment · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/shoot-location-logistics-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-shoot-location-logistics-pack&from=gh-media-shoot-location-logistics-pack)*
 
 ## The outcome
 
@@ -35,12 +42,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/), where a production office adds locations to the schedule one by one.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where agencies and production partners organise commercial shoots at borrowed sites.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), which owns the plan, the dates and the open items.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), for a production that wants the same location brief every time.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where a production office already has a checklist and wants it applied evenly.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more shoots overlap than one coordinator can hold in their head.
+- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-shoot-location-logistics-pack&from=gh-media-shoot-location-logistics-pack), where a production office adds locations to the schedule one by one.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-shoot-location-logistics-pack&from=gh-media-shoot-location-logistics-pack), where agencies and production partners organise commercial shoots at borrowed sites.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-shoot-location-logistics-pack&from=gh-media-shoot-location-logistics-pack), which owns the plan, the dates and the open items.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-shoot-location-logistics-pack&from=gh-media-shoot-location-logistics-pack), for a production that wants the same location brief every time.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-shoot-location-logistics-pack&from=gh-media-shoot-location-logistics-pack), where a production office already has a checklist and wants it applied evenly.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-shoot-location-logistics-pack&from=gh-media-shoot-location-logistics-pack), when more shoots overlap than one coordinator can hold in their head.
 
 ## What has to change for your company
 
@@ -50,7 +57,7 @@ Replace the default checklist sections with the ones your production uses, and k
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude; the record, including the edits made afterward, is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past location your team remembers well, plus hard cases written in advance: a gate that opens after call, more vehicles than spaces, a request for a power supply the notes do not mention, a contact with no confirmation date, a request to book the parking. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record we keep.
+Testing in your environment means running it on a past location your team remembers well, plus hard cases written in advance: a gate that opens after call, more vehicles than spaces, a request for a power supply the notes do not mention, a contact with no confirmation date, a request to book the parking. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-shoot-location-logistics-pack&from=gh-media-shoot-location-logistics-pack) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-shoot-location-logistics-pack&from=gh-media-shoot-location-logistics-pack) shows the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -77,10 +84,10 @@ Testing in your environment means running it on a past location your team rememb
 
 ## Related workflow templates
 
-- [Event plan](https://fullypowered.ai/workflows/event-plan/)
-- [Business trip plan](https://fullypowered.ai/workflows/business-trip-plan/)
-- [Site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/)
+- [Event plan](https://fullypowered.ai/workflows/event-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-shoot-location-logistics-pack&from=gh-media-shoot-location-logistics-pack)
+- [Business trip plan](https://fullypowered.ai/workflows/business-trip-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-shoot-location-logistics-pack&from=gh-media-shoot-location-logistics-pack)
+- [Site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-shoot-location-logistics-pack&from=gh-media-shoot-location-logistics-pack)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-shoot-location-logistics-pack&from=gh-media-shoot-location-logistics-pack).

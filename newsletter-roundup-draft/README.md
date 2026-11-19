@@ -1,10 +1,17 @@
 # Newsletter roundup draft
 
-The newsletter editor hands over the stories picked for this send and gets a draft digest grouped by beat, with a short summary, source line and link for each approved story. Duplicates, corrected stories and incomplete sources are flagged for the editor, who approves any send.
+Get a draft newsletter digest grouped by beat, with a summary, source line and link per story. Flags duplicates and corrections; the editor approves.
 
-*Workflow template · Media and entertainment · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/newsletter-roundup-draft/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Newsletter roundup draft on our website](https://fullypowered.ai/workflows/newsletter-roundup-draft/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-newsletter-roundup-draft&from=gh-media-newsletter-roundup-draft) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/newsletter-roundup-draft/?from=gh-media-newsletter-roundup-draft)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Media and entertainment · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/newsletter-roundup-draft/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-newsletter-roundup-draft&from=gh-media-newsletter-roundup-draft)*
 
 ## The outcome
 
@@ -37,12 +44,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/): the editor or audience producer who turns the week's output into one message to readers.
-- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/): newsrooms and publishers with a daily or weekly digest of their own coverage.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/): agencies and in-house teams that run a newsletter for a client's published content.
-- [Nonprofits](https://fullypowered.ai/industries/nonprofits/): organizations that send supporters a digest of their reports and stories.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): the point where a newsletter that one person wrote by hand needs a steadier routine.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): a digest that has run for years and deserves a consistent shape.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-newsletter-roundup-draft&from=gh-media-newsletter-roundup-draft): the editor or audience producer who turns the week's output into one message to readers.
+- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-newsletter-roundup-draft&from=gh-media-newsletter-roundup-draft): newsrooms and publishers with a daily or weekly digest of their own coverage.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-newsletter-roundup-draft&from=gh-media-newsletter-roundup-draft): agencies and in-house teams that run a newsletter for a client's published content.
+- [Nonprofits](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-newsletter-roundup-draft&from=gh-media-newsletter-roundup-draft): organizations that send supporters a digest of their reports and stories.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-newsletter-roundup-draft&from=gh-media-newsletter-roundup-draft): the point where a newsletter that one person wrote by hand needs a steadier routine.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-newsletter-roundup-draft&from=gh-media-newsletter-roundup-draft): a digest that has run for years and deserves a consistent shape.
 
 ## What has to change for your company
 
@@ -52,7 +59,7 @@ Name the editor who approves each send and the person who sends it. Fix the beat
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in two runs in Claude; the record of the second is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past roundups you already sent, plus hard cases written in advance: two stories on the same event, a story corrected after publication, a story with a missing link, a story with a reuse note, a story older than the window. The editor checks every summary against its story before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past roundups you already sent, plus hard cases written in advance: two stories on the same event, a story corrected after publication, a story with a missing link, a story with a reuse note, a story older than the window. The editor checks every summary against its story before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-newsletter-roundup-draft&from=gh-media-newsletter-roundup-draft) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-newsletter-roundup-draft&from=gh-media-newsletter-roundup-draft) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -79,10 +86,10 @@ Testing in your environment means running it on two or three past roundups you a
 
 ## Related workflow templates
 
-- [Email sequence drafting](https://fullypowered.ai/workflows/email-sequence-drafting/)
-- [Staff newsletter and FAQ roundup](https://fullypowered.ai/workflows/staff-newsletter-and-faq-roundup/)
-- [Recorded sessions into articles](https://fullypowered.ai/workflows/recorded-sessions-into-articles/)
+- [Email sequence drafting](https://fullypowered.ai/workflows/email-sequence-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-newsletter-roundup-draft&from=gh-media-newsletter-roundup-draft)
+- [Staff newsletter and FAQ roundup](https://fullypowered.ai/workflows/staff-newsletter-and-faq-roundup/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-newsletter-roundup-draft&from=gh-media-newsletter-roundup-draft)
+- [Recorded sessions into articles](https://fullypowered.ai/workflows/recorded-sessions-into-articles/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-newsletter-roundup-draft&from=gh-media-newsletter-roundup-draft)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-newsletter-roundup-draft&from=gh-media-newsletter-roundup-draft).

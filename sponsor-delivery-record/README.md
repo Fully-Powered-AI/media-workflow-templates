@@ -1,10 +1,17 @@
 # Sponsor delivery record
 
-When a sponsored run ends, the partnerships lead gets a register of each placement in the signed scope beside the publication record, metrics and invoices. Gaps, changed dates and incomparable metrics stay visible; billing questions go to finance.
+Get a register of each sponsored placement beside the publication record, metrics and invoices. A person confirms fulfilment; finance decides billing.
 
-*Workflow template · Media and entertainment · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sponsor-delivery-record/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Sponsor delivery record on our website](https://fullypowered.ai/workflows/sponsor-delivery-record/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-sponsor-delivery-record&from=gh-media-sponsor-delivery-record) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/sponsor-delivery-record/?from=gh-media-sponsor-delivery-record)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Media and entertainment · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sponsor-delivery-record/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-sponsor-delivery-record&from=gh-media-sponsor-delivery-record)*
 
 ## The outcome
 
@@ -34,15 +41,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Sales](https://fullypowered.ai/functions/sales/), where the partnerships lead owns the sponsor relationship and answers for what was promised.
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), where the publishing and audience records that prove delivery are kept.
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), which decides what is invoiced, credited or held.
-- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/), where a sponsor buys placements across shows, newsletters, broadcasts and sites.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where an agency or a publisher reports delivery back to the buyer of the media.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the number of sponsored runs outgrows what one person can reconcile by hand.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where sponsorship income is a standing line and its evidence has to be orderly.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-sponsor-delivery-record&from=gh-media-sponsor-delivery-record), where the partnerships lead owns the sponsor relationship and answers for what was promised.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-sponsor-delivery-record&from=gh-media-sponsor-delivery-record), where the publishing and audience records that prove delivery are kept.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-sponsor-delivery-record&from=gh-media-sponsor-delivery-record), which decides what is invoiced, credited or held.
+- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-sponsor-delivery-record&from=gh-media-sponsor-delivery-record), where a sponsor buys placements across shows, newsletters, broadcasts and sites.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-sponsor-delivery-record&from=gh-media-sponsor-delivery-record), where an agency or a publisher reports delivery back to the buyer of the media.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-sponsor-delivery-record&from=gh-media-sponsor-delivery-record), when the number of sponsored runs outgrows what one person can reconcile by hand.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-sponsor-delivery-record&from=gh-media-sponsor-delivery-record), where sponsorship income is a standing line and its evidence has to be orderly.
 
-It stays separate from [client billing summary](https://fullypowered.ai/workflows/client-billing-summary/), which prepares a bill for a client's review, and from [wholesale order check](https://fullypowered.ai/workflows/wholesale-order-check/), which checks a buyer's order against a quote. This one checks delivery evidence for a sponsored run and raises billing questions as a by-product. It also stays separate from [creator publication tracking](https://fullypowered.ai/workflows/creator-publication-tracking/), which is the brand-side check of creators' posts; this one is the publisher-side delivery evidence for a sponsor.
+It stays separate from [client billing summary](https://fullypowered.ai/workflows/client-billing-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-sponsor-delivery-record&from=gh-media-sponsor-delivery-record), which prepares a bill for a client's review, and from [wholesale order check](https://fullypowered.ai/workflows/wholesale-order-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-sponsor-delivery-record&from=gh-media-sponsor-delivery-record), which checks a buyer's order against a quote. This one checks delivery evidence for a sponsored run and raises billing questions as a by-product. It also stays separate from [creator publication tracking](https://fullypowered.ai/workflows/creator-publication-tracking/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-sponsor-delivery-record&from=gh-media-sponsor-delivery-record), which is the brand-side check of creators' posts; this one is the publisher-side delivery evidence for a sponsor.
 
 ## What has to change for your company
 
@@ -52,7 +59,7 @@ Decide how your records name a placement, so the log can point to it, and keep o
 
 FullyPowered AI wrote this workflow template in its own words. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it; the template was revised afterwards in response to that run, and again after an independent review, and the revised version has not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a sponsored run your team remembers well, with hard cases written in advance: a placement with no record, a record dated after the window, a replacement asset, a metric measured over a different period, an invoice that is larger than the fees it covers. The partnerships lead checks every count against the logs before the register goes anywhere. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a sponsored run your team remembers well, with hard cases written in advance: a placement with no record, a record dated after the window, a replacement asset, a metric measured over a different period, an invoice that is larger than the fees it covers. The partnerships lead checks every count against the logs before the register goes anywhere. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-sponsor-delivery-record&from=gh-media-sponsor-delivery-record) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-sponsor-delivery-record&from=gh-media-sponsor-delivery-record) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -79,10 +86,10 @@ Testing in your environment means running it on a sponsored run your team rememb
 
 ## Related workflow templates
 
-- [Client billing summary](https://fullypowered.ai/workflows/client-billing-summary/)
-- [Creator publication tracking](https://fullypowered.ai/workflows/creator-publication-tracking/)
-- [Wholesale order check](https://fullypowered.ai/workflows/wholesale-order-check/)
+- [Client billing summary](https://fullypowered.ai/workflows/client-billing-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-sponsor-delivery-record&from=gh-media-sponsor-delivery-record)
+- [Creator publication tracking](https://fullypowered.ai/workflows/creator-publication-tracking/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-sponsor-delivery-record&from=gh-media-sponsor-delivery-record)
+- [Wholesale order check](https://fullypowered.ai/workflows/wholesale-order-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-sponsor-delivery-record&from=gh-media-sponsor-delivery-record)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=media-sponsor-delivery-record&from=gh-media-sponsor-delivery-record).
